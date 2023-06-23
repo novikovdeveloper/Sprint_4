@@ -143,6 +143,10 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+.idea/Sprint_4.iml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/misc.xml
 # Pyre type checker
 .pyre/
 
